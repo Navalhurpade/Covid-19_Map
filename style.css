@@ -1,0 +1,41 @@
+#map{
+    width: 100vw;
+    height: 100vh;
+}
+
+*{
+    margin: 0;
+}
+
+/* .popUp{
+background-color: burlywood;
+} */
+
+.title{
+    text-align: center;
+    font-weight: 400;
+}
+
+.mapboxgl-popup-content{
+    padding: 0;
+    background: #fff;
+    /* background: #433d3c; */
+    border-radius: 7px;
+    /* box-shadow: 0 2px 5px  rgb(138, 137, 137); */
+    box-shadow: 0 2px 5px rgb(207,211,206)
+}
+
+.card p{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color: #ec524b;
+}
+
+
+.flag{
+max-width: 10vw;
+max-height: 15vh;
+margin: auto;
+border-radius: 2vh;
+}
